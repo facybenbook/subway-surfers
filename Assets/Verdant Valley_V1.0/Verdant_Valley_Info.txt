@@ -1,0 +1,274 @@
+
+Verdant Valley - INITIAL RELEASE V1
+
+TEXTURES
+--------
+
+1024x1024
+.png format
+
+
+Terrain Textures - Paintable ground textures
+
+Terrain_Green
+Terrain_Daisies_Blue
+Terrain_Daisies_Orange
+Terrain_Daisies_Pink
+Terrain_Daisies_White
+Terrain_Daisies_Yellow
+
+
+UV Textures
+
+Clover_Patches
+Crocus_Blue
+Crocus_Purple
+Crocus_Yellow
+
+Daisy1_Blue
+Daisy1_Pink
+Daisy1_Yellow
+
+Daisy2_Blue
+Daisy2_Orange
+Daisy2_Purple
+
+Leaves_Blue
+Leaves_Orange
+Leaves_Pink
+Leaves_White
+
+Mushromm_Blue
+Mushromm_Pink
+Mushromm_Purple
+Mushromm_Red
+
+Reedmace_Blue
+Reedmace_Pink
+Reedmace_Yellow
+
+Road_Blue
+Road_Pink
+
+
+
+
+TRI POLYCOUNTS
+--------------
+
+Daisy1
+
+Daisy1_Blue - 360
+Daisy1_Pink - 360
+Daisy_Yellow - 360
+
+
+Daisy2
+
+Daisy2_Blue - 155
+Daisy2_Pink - 155
+Daisy3_Yellow - 155
+
+------------------------------------
+
+Crocus
+
+Crocus_Blue - 268
+Crocus_Purple - 268
+Crocus_Yellow - 268
+
+------------------------------------
+
+Reed Mace - Blue/Pink/Yellow - Polycount the same for each colour
+
+Reedmace1 - 284
+Reedmace2 - 480
+Reedmace3 - 848
+Reedmace4 - 1152
+
+------------------------------------
+ 
+Clover
+
+CloverPatch1 - 40
+CloverPatch2 - 40
+CloverPatch3 - 40
+
+------------------------------------
+
+Ferns
+
+Fern1 - 448
+Fern2 - 512
+Fern4 - 288
+
+------------------------------------
+
+GRASS
+
+GrassShort1 - 252
+GrassShort1 - 420
+GrassShort1 - 728
+
+GrassTall1 - 228
+GrassTall2 - 412
+GrassTall3 - 1008
+
+------------------------------------
+
+Mushrooms - Turquoise/Pink/Purple/Red - Polycount the same for each colour
+
+Mushroom_straight1 - 168
+Mushroom_Straight2 - 168
+Mushroom_Straight3 - 168
+
+Mushroom_Curved1 - 216
+Mushroom_Curved2 - 216
+Mushroom_Curved3 - 232
+
+------------------------------------
+
+Ball Trees
+
+Tree_Sapling1 - 339
+Tree_Sapling2 - 448
+Tree_Sapling3 - 460 
+
+Tree_Mature1 - 708
+Tree_Mature2 - 708
+Tree_Mature3 - 792
+
+
+Leafy Fay Trees
+
+Fay1 - 512
+Fay2 - 1560
+Fay3 - 1860
+Fay4 - 2036
+Fay5 - 2376
+Fay6 - 2498
+
+------------------------------------
+
+Clouds
+
+Cloud1 - 994
+Cloud2 - 696
+Cloud3 - 496
+Cloud4 - 694
+Cloud5 - 1208
+Cloud6 - 996
+Cloud7 - 1294
+Cloud8 - 696
+Cloud9 - 1296
+
+------------------------------------
+
+Rocks
+
+Rock_Big1 - 350
+Rock_Big2 - 529
+Rock_Big3 - 616
+Rock_Big4 - 644
+Rock_Big5 - 660
+Rock_Big6 - 506
+
+Rock_Medium1 - 193 
+Rock_Medium2 - 278
+Rock_Medium3 - 290
+Rock_Medium4 - 298
+Rock_Medium5 - 338
+Rock_Medium6 - 404
+
+Rock_Small1 - 46
+Rock_Small2 - 52
+Rock_Small3 - 102
+Rock_Small4 - 182
+Rock_Small5 - 191
+Rock_Small6 - 62
+
+Rock_Tiny1 - 18
+Rock_Tiny2 - 32
+Rock_Tiny3 - 18
+Rock_Tiny4 - 32
+Rock_Tiny5 - 32
+Rock_Tiny6 - 32
+Rock_Tiny7 - 32
+Rock_Tiny8 - 40
+
+------------------------------------
+
+Towers
+
+Tower1 - 202
+Tower2 - 290
+Tower3 - 330
+Tower4 - 786
+Tower5 - 658
+Tower6 - 266
+Tower7 - 426
+Tower8 - 378
+Tower9 - 1410
+
+------------------------------------
+
+Roads
+
+Arches
+RD_Arch_x1 - 164
+RD_Arch_x1_Tall - 188
+RD_Arch_x2 - 308
+RD_Arch_x2_Tall - 344
+RD_Arch_x3 - 462
+RD_Arch_x3_Tall - 500
+
+Curved Arches
+RD_Arch_x3_22.5 - 452
+RD_Arch_x3_45 - 452
+RD_Arch_x6_90 - 884
+
+Corners
+RD_Corner1 - 74
+RD_Corner2 - 74
+RD_Corner3 - 74
+RD_Corner4 - 74
+
+RD_Cross - 114
+
+RD_Curve_x1_22.5 - 164
+RD_Curve_x1_45 - 164
+RD_Curve_x2_22.5 - 452
+RD_Curve_x2_45 - 452
+RD_Curve_x2_90 - 456
+
+RD_Dip_Bridge1 - 452
+RD_Dip_Bridge1_Half1 - 128
+RD_Dip_Bridge1_Half2 - 128
+RD_Dip_Bridge_Mid1 - 236
+
+RD_Dip_Tall1 - 524
+RD_Dip_Tall1_45 - 668
+RD_Dip_Tall1_90 - 668
+RD_Dip_Tall1_Mid1 - 344
+RD_Dip_Tall1_Half1 - 110
+RD_Dip_Tall1_Half2 - 110
+
+RD_Hump_Bridge1 - 452
+RD_Hump_Bridge1_Half1 - 128
+RD_Hump_Bridge1_Half2 - 128
+RD_Hump_Bridge1_Mid1 - 236
+
+RD_Hump_Tall1 - 492
+RD_Hump_Tall1_45 - 708
+RD_Hump_Tall1_90 - 708
+RD_Hump_Tall1_Half1 - 128
+RD_Hump_Tall1_Half2 - 128
+RD_Hump_Tall1_Mid1 - 276
+
+RD_Sqx1 - 38
+RD_Sqx2 - 56
+RD_Sqx3 - 74
+
+RD_T - 94
+
+
